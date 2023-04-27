@@ -1,1 +1,11 @@
 bla bla bla
+
+
+## References
+
+1) SNIC superpixels
+
+- **article**: Achanta, R., & Susstrunk, S. (2017). Superpixels and polygons using simple non-iterative clustering. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 4651-4660).
+
+- **code**: https://github.com/achanta/SNIC
+
