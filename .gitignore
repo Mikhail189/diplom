@@ -1,0 +1,5 @@
+venv/
+SNIC/_snic.c
+SNIC/_snic.cpython-38-x86_64-linux-gnu.so
+SNIC/_snic.o
+SNIC/__pycache__/

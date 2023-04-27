@@ -1,0 +1,6 @@
+cffi
+numpy
+scikit-image
+Pillow
+opencv-python
+matplotlib
